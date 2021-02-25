@@ -8,3 +8,5 @@ Repositório criado para gerenciar os projetos de linguagens I.
 - Java
 - Python
 - C
+- Dart
+- Flutter
